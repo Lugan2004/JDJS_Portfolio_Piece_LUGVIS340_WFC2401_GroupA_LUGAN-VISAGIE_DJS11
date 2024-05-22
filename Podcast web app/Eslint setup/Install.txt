@@ -1,0 +1,2 @@
+npm install --save-dev eslint-plugin-prettier eslint-config-prettier
+npm install --save-dev --save-exact prettier
